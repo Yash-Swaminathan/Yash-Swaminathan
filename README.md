@@ -2,10 +2,21 @@
 
 
 
+  <img src="./github_profile.gif" alt="GitHub Profile Animation"/>
+
+
+
 **I'm interested in building scalable infrastructure, resilient backends, end‑to‑end data pipelines & production‑grade ML systems**
 
 
-## About Me
+## 👋 About Me
+
+- 🎓 Systems Design Engineering 1B student at the University of Waterloo  
+- 💼 Previously CO-OP at [Turing](https://theturingcompany.com/)  
+- 🔍 Currently seeking new job opportunities for Fall 2025
+- 🏋️‍♂️ Enjoy going to the gym  
+- 🏀 Love watching or playing basketball  
+
 
 
 ## 🛠️ Skills    
