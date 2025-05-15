@@ -1,8 +1,14 @@
+## Hi, I'm Yash Swaminathan
 
 
 
+**I'm interested in building scalable infrastructure, resilient backends, end‑to‑end data pipelines & production‑grade ML systems**
 
-## 🛠️ Skills
+
+## About Me
+
+
+## 🛠️ Skills    
 
 ## 🖥️ Languages
 
