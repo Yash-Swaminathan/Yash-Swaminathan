@@ -78,6 +78,12 @@
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
 
+### Let’s Connect
+- ✉️ yswamina@uwaterloo.ca  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/yash-swaminathan)  
+
+
+
 
 <!--
 **Yash-Swaminathan/Yash-Swaminathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
