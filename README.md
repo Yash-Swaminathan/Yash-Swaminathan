@@ -12,10 +12,13 @@
 ## 👋 About Me
 
 - 🎓 Systems Design Engineering 1B student at the University of Waterloo  
-- 💼 Previously CO-OP at [Turing](https://theturingcompany.com/)  
-- 🔍 Currently seeking new job opportunities for Fall 2025
+- 💼 Currently working @ [Micromart](https://www.micromart.com/smart-store)
+- 🔍 Seeking new job opportunities for Summer 2026
 - 🏋️‍♂️ Enjoy going to the gym  
-- 🏀 Love watching or playing basketball  
+- 🏀 Love watching or playing basketball
+- 🔭 Working on my personal website
+- 🌱 Learning how to write scalable **TypeScript** and **Node.js** code
+
 
 
 
