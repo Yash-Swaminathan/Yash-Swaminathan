@@ -6,18 +6,19 @@
 
 
 
-**I'm interested in building scalable infrastructure, resilient backends, end‑to‑end data pipelines & production‑grade ML systems**
+**I'm interested in building scalable infrastructure, CI/CD pipelines, resilient backends & DevOps automation**
 
 
 ## 👋 About Me
 
-- 🎓 Systems Design Engineering 2A student at the University of Waterloo  
-- 💼 Currently working @ [Micromart](https://www.micromart.com/smart-store)
-- 🔍 Seeking new job opportunities for Summer 2026
-- 🏋️‍♂️ Enjoy going to the gym  
-- 🏀 Love watching or playing basketball
-- 🔭 Working on my personal website
-- 🌱 Learning how to write scalable **TypeScript** and **Node.js** code
+- Check out my [Website](https://www.yashswaminathan.com/)
+- Systems Design Engineering 2A student at the University of Waterloo  
+- Just finished working @ [Micromart](https://www.micromart.com/smart-store)
+- Seeking new job opportunities for Summer 2026
+- I enjoy going to the gym  
+- I love watching or playing basketball
+- Working on ChatterBox, a messaging platform using websockets!
+- Learning how to write scalable **TypeScript** and **Node.js** code
 
 
 
