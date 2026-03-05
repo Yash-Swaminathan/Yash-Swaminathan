@@ -3,18 +3,19 @@
 
 
   <img src="./github_profile.gif" alt="GitHub Profile Animation"/>
+  <img src="https://komarev.com/ghpvc/?username=Yash-Swaminathan"/>
 
 
 
 **I'm interested in building scalable infrastructure, CI/CD pipelines, resilient backends & DevOps automation**
 
 
-## 👋 About Me
+## About Me
 
 - Check out my [Website](https://www.yashswaminathan.com/)
 - Systems Design Engineering 2A student at the University of Waterloo  
 - Just finished working @ [Micromart](https://www.micromart.com/smart-store)
-- Seeking new job opportunities for Summer 2026
+- Incoming at [StackAdapt](https://www.stackadapt.com/)
 - I enjoy going to the gym  
 - I love watching or playing basketball
 - Working on ChatterBox, a messaging platform using websockets!
@@ -23,9 +24,9 @@
 
 
 
-## 🛠️ Skills    
+## Skills    
 
-## 🖥️ Languages
+## Languages
 
 <p float="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -40,7 +41,7 @@
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" alt="MATLAB" />
 </p>
 
-## 📚 Frameworks & Databases
+## Frameworks & Databases
 
 <p float="left">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -56,7 +57,7 @@
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe SDK" />
 </p>
 
-## 🛠️ Tools & Platforms
+## Tools & Platforms
 
 <p float="left">
   <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure" />
@@ -74,26 +75,3 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
 </p>
-
-### Let’s Connect
-- ✉️ yswamina@uwaterloo.ca  
-- 🔗 [LinkedIn](https://www.linkedin.com/in/yash-swaminathan)  
-
-
-
-
-<!--
-**Yash-Swaminathan/Yash-Swaminathan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
